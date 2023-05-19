@@ -1,6 +1,6 @@
-#Nigerian Traditional Textiles Identification with TensorFlow
+# Nigerian Traditional Textiles Identification with TensorFlow
 
-License
+
 
 This project aims to identify Nigerian traditional textiles using a deep convolutional neural network model. The model has achieved an accuracy of approximately 85% and has been integrated into an Android app. The app not only predicts the names of traditional textiles from their images but also provides suggestions for various attires that can be sewn using the predicted textile.
 
