@@ -11,10 +11,10 @@ https://www.youtube.com/watch?v=-CbDhtj8elg
 
 ## Features
 
-    * Image classification: The deep convolutional neural network model can accurately classify Nigerian traditional textiles from images.
-    * Attire suggestions: The app provides suggestions for different attires that can be created using the predicted textile.
-    * Android integration: The model has been integrated into an Android app using Flutter and Android Studio.
-    * TensorFlow: The model was built using TensorFlow, a popular deep learning framework.
+- Image classification: The deep convolutional neural network model can accurately classify Nigerian traditional textiles from images.
+- Attire suggestions: The app provides suggestions for different attires that can be created using the predicted textile.
+- Android integration: The model has been integrated into an Android app using Flutter and Android Studio.
+- TensorFlow: The model was built using TensorFlow, a popular deep learning framework.
     
 ## Usage
 
